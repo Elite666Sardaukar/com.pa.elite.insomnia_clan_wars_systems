@@ -1,0 +1,26 @@
+{
+    "context": "client",
+    "identifier": "Insomnia_Clan_Wars_Systems",
+    "display_name": "Insomnia_Clan_WarsSystems",
+    "description": "Systems for the Insomnia Clan Wars",
+    "author": "Elite Sardaukar",
+    "version": "1.0",
+    "build": "105067",
+    "date": "2017/08/13",
+    "signature": "not yet implemented",
+    "forum": "",
+    "category": [
+        "ui",
+		"maps"
+    ],
+    "load_planet": [
+        "coui://ui/mods/Clan_Wars_Systems/maplist.js"
+    ],
+    "id": "a",
+    "icon": "http://i.imgur.com/uE8ZMqa.png",
+    "priority": 500,
+    "enabled": true,
+    "dependencies": [
+        "com.pa.conundrum.cShareSystems"
+    ]
+}
